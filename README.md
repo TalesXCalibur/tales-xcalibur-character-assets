@@ -1,2 +1,2 @@
-# tales-xcalibur-character-assets
-Character Assets for Tales of XCalibur fan-game.
+# Tales of X Calibur Character Assets
+Character Assets for Tales of X Calibur fan-game.
